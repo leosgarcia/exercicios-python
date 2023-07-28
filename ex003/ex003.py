@@ -18,4 +18,4 @@ print(f'A divisão de {n1} e {n2} é {divisao}')
 
 print(divisao_inteira)
 print(divisao_resto)
-print(potencia5)
+print(potencia)
