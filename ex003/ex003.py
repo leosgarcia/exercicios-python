@@ -13,9 +13,6 @@ print(f'A soma de {n1} e {n2} é {soma}')
 print(f'A subtração de {n1} e {n2} é {subtracao}')
 print(f'A multiplicação de {n1} e {n2} é {multiplicacao}')
 print(f'A divisão de {n1} e {n2} é {divisao}')
-
-
-
-print(divisao_inteira)
-print(divisao_resto)
-print(potencia)
+print(f'{n1} divido por {n2} é {divisao_inteira}')
+print(f'O resto da divisão é {n1} e {n2} é {divisao_resto}')
+print(f'{n1} elevado à {n2} é {potencia}')
