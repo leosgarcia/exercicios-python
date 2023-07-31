@@ -2,7 +2,7 @@
 
 for tab in range(1, 11):
     print("TABUADA DE {}".format(tab))
-    print("------------------")
+    print("-------------------")
     for num in range(1, 11):
-        print("|  {0:2d} X {1:2d} = {2:2d}  |".format(num, tab, num * tab))
-    print("------------------\n")
+        print("|  {:2d} X {:2d} = {:3d}  |".format(num, tab, num * tab))
+    print("-------------------\n")
