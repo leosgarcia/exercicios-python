@@ -13,4 +13,4 @@ elif base_de_coversao == 2:
 elif base_de_coversao == 3:
     print('O número {} em binário é: {}'.format(numero, hexa[2:]))
 else:
-    print('Digite um número válido!')
+    print('Opção inválida')
